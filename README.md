@@ -2,6 +2,8 @@
 
 So, you wanna learn how to hack? I wanna learn too!!! Let's learn together.
 
+Obviously cybersecurity is a vast field, and this is not a guide for everything. But checking the boxes here will make it easier for most people to move forward in this field,
+
 Now, I'm not an expert hacker. I haven't found bugs to make me look cool(yet). I don't even have a certificate(yet). However, it's not like I don't know anything. I just haven't got the opportunity to show off yet (or haven't created one!)
 
 I ain't Mitnick yet, but I can be one. And so can you.
